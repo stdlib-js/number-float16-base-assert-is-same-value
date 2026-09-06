@@ -1,0 +1,49 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-06)
+
+<section class="features">
+
+### Features
+
+-   [`1458b04`](https://github.com/stdlib-js/stdlib/commit/1458b04a0e4b14a27e3161fe4b61cab355f9a1c1) - add `number/float16/base/assert/is-same-value` [(#14903)](https://github.com/stdlib-js/stdlib/pull/14903)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1458b04`](https://github.com/stdlib-js/stdlib/commit/1458b04a0e4b14a27e3161fe4b61cab355f9a1c1) - **feat:** add `number/float16/base/assert/is-same-value` [(#14903)](https://github.com/stdlib-js/stdlib/pull/14903) _(by Gururaj Gurram, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
